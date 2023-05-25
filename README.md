@@ -16,15 +16,15 @@ Thanks for taking a look at my portfolio!
 
 # Data Engineering Projects
 
-## ELT-chess-project
+### ELT-chess-project
 
-## NorthwindETL
+### NorthwindETL
 
 # Data Analyst Projects
 
-## Tableau_PM_Viz_Project
+### Tableau_PM_Viz_Project
 
-## Excel_Sales_Project
+### Excel_Sales_Project
 
 # How to reach me
 I would love to chat:
