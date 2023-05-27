@@ -6,7 +6,7 @@ Thanks for taking a look at my portfolio!
   <img src="https://static-00.iconduck.com/assets.00/apache-kafka-icon-1278x2048-5jtgzwcu.png" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
   <img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1634190631" title="Snowflake" alt="Snowflake" width="40" height="40"/>&nbsp;  
   <img src="https://www.svgrepo.com/show/331370/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;  
-  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iMzgiIHZpZXdCb3g9IjAgMCA0MCAzOCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIzLjE2NCAxMy4yMjQ0SDEwLjk3OTdMMCAzNy4wMjkzSDcuMDgyOTJMMTUuMTAzMSAxOS43MDVIMjMuMTYxNUMyNC45NDY4IDE5LjcwNSAyNi4zOTM1IDE4LjI1NDEgMjYuMzkzNSAxNi40NjM0QzI2LjM5MzUgMTQuNjcyOCAyNC45NDY4IDEzLjIyMTggMjMuMTYxNSAxMy4yMjE4TDIzLjE2NCAxMy4yMjQ0Wk0yMy4xNjQgMEgxNS42MDc0TDEyLjYwOTcgNi40ODA2NEgyMy4xNjRDMjguNjUyNiA2LjQ4MDY0IDMzLjExNzMgMTAuOTU4NiAzMy4xMTczIDE2LjQ2MzRDMzMuMTE3MyAyMS45NjgzIDI4LjY1MjYgMjYuNDQ2MiAyMy4xNjQgMjYuNDQ2MkgxOS4wNTA4TDE2LjA1NTYgMzIuOTExNUMxNi4xNTc1IDMyLjkyMTggMTYuMjU5NCAzMi45MjY5IDE2LjM2MzggMzIuOTI2OUgyMy4xNjRDMzIuMjE1NyAzMi45MjY5IDM5LjU3ODggMjUuNTQxOSAzOS41Nzg4IDE2LjQ2MzRDMzkuNTc4OCA3LjM4NDkxIDMyLjIxNTcgMCAyMy4xNjQgMFoiIGZpbGw9IiMwMEIwOEEiLz4KPC9zdmc+Cg==" title="Preset" alt="Preset" width="40" height="40"/>&nbsp;
+  <img src="" title="Preset" alt="Preset" width="40" height="40"/>&nbsp;
   <img src="" title="" alt="" width="40" height="40"/>&nbsp;  
   <img src="" title="" alt="" width="40" height="40"/>&nbsp;  
   <img src="" title="" alt="" width="40" height="40"/>&nbsp;
