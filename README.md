@@ -6,7 +6,7 @@ Hi, I'm Eric! I'm currently working at Apple. Throughout my experience, I've bec
   
 Take a look at my projects and feel free to reach out if you're interested in collaboration or discussion!
   
-## Data Engineering Projects
+## Data Engineer Projects
 
 ### [ELT-chess-project](https://github.com/ericbjames/ELT-chess-project)
 <code><img height="30" title="Python" alt="Python" src="https://github.com/ericbjames/ericbjames/assets/101911329/55beca35-1847-4861-ba9a-fa6e3551620b"></code>
@@ -31,7 +31,7 @@ Take a look at my projects and feel free to reach out if you're interested in co
 - **Tools & Techniques**: Utilized Airbyte for data integration, orchestrated workflows using Databricks, and applied dimensional modeling use Spark SQL.
 
 
-## Data Analysis Projects
+## Data Analyst Projects
 
 ### [Excel_Sales_Project](https://ericbjames.github.io/Excel_Sales_Project/)
 - **Project Overview**: Cleaned a year's worth of sales data from a mock technology retail company containing over 180,000 rows.
