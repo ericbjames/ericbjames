@@ -18,7 +18,9 @@ Take a look at my projects and feel free to reach out if you're interested in co
 
 - **Project Overview**: Designed a cloud-based end-to-end data pipeline using Lichess’ API game data to evaluate chess game openings from top players.
 - **Tools & Techniques**: Employed modern data engineering tools and techniques, including a custom Kafka producer, Snowflake data warehousing, dimensional modeling using DBT, and cloud-hosting on AWS.
-
+<p align="center">
+  <img src="https://github.com/ericbjames/ELT-chess-project/assets/101911329/32c16a08-86b3-4c21-9835-fbc1ebf4ee0b">
+</p>
 
 ### [NorthwindETL](https://github.com/ericbjames/NorthwindETL#project-architecture)
 <code><img height="30" title="Python" alt="Python" src="https://github.com/ericbjames/ericbjames/assets/101911329/55beca35-1847-4861-ba9a-fa6e3551620b"></code>
@@ -29,7 +31,9 @@ Take a look at my projects and feel free to reach out if you're interested in co
 <code><img height="30" title="Tableau" alt="Tableau" src="https://github.com/ericbjames/ericbjames/assets/101911329/da654312-2f1c-40be-a613-13a2954fa63c"></code>
 - **Project Overview**: Developed a data engineering pipeline transforming raw data from the Northwind public database into actionable insights visualized on a Tableau dashboard.
 - **Tools & Techniques**: Utilized Airbyte for data integration, orchestrated workflows using Databricks, and applied dimensional modeling use Spark SQL.
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/101911329/229883209-f24c71ab-f562-41ef-b07f-0a62ceebada3.png">
+</p>
 
 ## Data Analyst Projects
 
