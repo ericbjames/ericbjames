@@ -2,7 +2,7 @@
 <img width="1000" alt="Original formating" src="https://github.com/ericbjames/ericbjames/assets/101911329/10ea169a-01c6-47c8-ade1-f7fe25dfede7"
 </p>
 
-Hi, I'm Eric! I'm currently working at Apple. Throughout my experience, I've become deeply interested in the potential of data and the process of efficiently getting clean and useful data to decision-makers. This interest drove me to complete [Data Engineering camp](https://dataengineercamp.com), where I learned the modern Data Stack to explore the field of data analytics. Now, I'm thrilled at the prospect of transitioning my career towards a data-centric role, where I can leverage my new skills and passion for making sense of complex data to derive value.
+Hi, I'm Eric! I've become deeply interested in the potential of data and the process of efficiently getting clean and useful data to decision-makers. This interest drove me to complete [Data Engineering camp](https://dataengineercamp.com), where I learned the modern Data Stack to explore the field of data analytics. 
   
 Take a look at my projects and feel free to reach out if you're interested in collaboration or discussion!
   
