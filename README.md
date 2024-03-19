@@ -9,6 +9,10 @@ Hi, I'm Eric! I am a Data Engineer looking for my next role. I started my career
 - Creating DE solutions for small to medium-sized businesses.
 - Hard problems yet to be solved in the Data world.
   
+## How to reach me
+- Linkedin: https://www.linkedin.com/in/ericbjames/
+- Email: [ericbradleyj@gmail.com](ericbradleyj@gmail.com)
+
 ## Data Engineer Projects
 
 ### [ELT-chess-project](https://github.com/ericbjames/ELT-chess-project)
@@ -50,13 +54,9 @@ Hi, I'm Eric! I am a Data Engineer looking for my next role. I started my career
 - **Insights**: The dashboard provides insights into the budget, timeline, and location of California’s Great American Outdoors Act (GAOA) projects from 2021-2025.
 
 
-# How to reach me
-I would love to chat:
-- Linkedin: https://www.linkedin.com/in/ericbjames/
-- Email: [ericbradleyj@gmail.com](ericbradleyj@gmail.com)
   
 # Personal Interests
 Beyond my professional life, I enjoy...
-- Solving Rubik's Cubes!
-- Going on day-hiking trips.
-- I love audiobooks, they make drives, runs, and yardwork amazing :)
+- Day-hiking mountains & volcanos
+- Timing myself solve Rubik's Cubes
+- Any Competitive FPS game
