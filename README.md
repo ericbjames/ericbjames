@@ -2,9 +2,12 @@
 <img width="1000" alt="Original formating" src="https://github.com/ericbjames/ericbjames/assets/101911329/10ea169a-01c6-47c8-ade1-f7fe25dfede7"
 </p>
 
-Hi, I'm Eric! I've become deeply interested in the potential of data and the process of efficiently getting clean and useful data to decision-makers. This interest drove me to complete [Data Engineering camp](https://dataengineercamp.com), where I learned the modern Data Stack to explore the field of data analytics. 
-  
-Take a look at my projects and feel free to reach out if you're interested in collaboration or discussion!
+Hi, I'm Eric! I am a Data Engineer looking for my next role. I started my career at Apple working in People Ops and L&D Analytics. My step into Data Engineering started when I completed [Data Engineering camp](https://dataengineercamp.com) where I learned the modern data stack through multiple personal projects. I'm always keen to meet new people, chat, and help wherever I can. Cheers!
+
+### Some Data Engineering Topics I am currently interested in...
+- Enabling data privacy through Data Engineering(DE).
+- Creating DE solutions for small to medium-sized businesses.
+- Hard problems yet to be solved in the Data world.
   
 ## Data Engineer Projects
 
