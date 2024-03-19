@@ -9,7 +9,7 @@ Hi, I'm Eric! I am a Data Engineer looking for my next role. I started my career
 - Creating DE solutions for small to medium-sized businesses.
 - Hard problems yet to be solved in the Data world.
   
-## How to reach me
+### How to reach me
 - Linkedin: https://www.linkedin.com/in/ericbjames/
 - Email: [ericbradleyj@gmail.com](ericbradleyj@gmail.com)
 
@@ -55,7 +55,7 @@ Hi, I'm Eric! I am a Data Engineer looking for my next role. I started my career
 
 
   
-# Personal Interests
+## Personal Interests
 Beyond my professional life, I enjoy...
 - Day-hiking mountains & volcanos
 - Timing myself solve Rubik's Cubes
