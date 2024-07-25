@@ -6,8 +6,7 @@ Hi, I'm Eric! I am a Data Engineer looking for my next role. I started my career
 
 ### Some Data Engineering Topics I am currently interested in...
 - Enabling data privacy through Data Engineering(DE).
-- Creating DE solutions for small to medium-sized businesses.
-- Hard problems yet to be solved in the Data world.
+- Making Data Engineering more accessible for small to medium-size businesses.
   
 ### How to reach me
 - Linkedin: https://www.linkedin.com/in/ericbjames/
