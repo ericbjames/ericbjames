@@ -57,5 +57,6 @@ Hi, I'm Eric! I am a Data Engineer looking for my next role. I started my career
 ## Personal Interests
 Beyond my professional life, I enjoy...
 - Day-hiking mountains & volcanos
-- Timing myself solve Rubik's Cubes
+- Running and Lifting
+- Speed solving Rubik's Cubes
 - Any Competitive FPS game
