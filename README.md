@@ -1,16 +1,19 @@
 <p align="center">
-<img width="1000" alt="Original formating" src="https://github.com/ericbjames/ericbjames/assets/101911329/10ea169a-01c6-47c8-ade1-f7fe25dfede7"
+  <img width="1000" alt="Eric James" src="https://github.com/ericbjames/ericbjames/assets/101911329/10ea169a-01c6-47c8-ade1-f7fe25dfede7">
 </p>
 
-Hi, I'm Eric! I am a Data Engineer looking for my next role. I started my career at Apple working in People Ops and L&D Analytics. My step into Data Engineering started when I completed [Data Engineering camp](https://dataengineercamp.com) where I learned the modern data stack through multiple personal projects. I'm always keen to meet new people, chat, and help wherever I can. Cheers!
+Hi, I'm Eric! I'm a Business Intelligence analyst growing into data engineering. Most of my time goes to building reporting solutions and ETL pipelines: designing SQL/SSIS data flows, modeling warehouse tables, and doing the analytics myself, which means building the pipelines when they don't exist.
 
-### Some Data Engineering Topics I am currently interested in...
-- Enabling data privacy through Data Engineering(DE).
-- Making Data Engineering more accessible for small to medium-size businesses.
-  
+My path here is a little unusual, and it's become my favorite thing about how I work. I started at Apple in People Ops and L&D Analytics, so I've sat on the business side of the data and know what people actually need from it. Along the way I found I liked building the pipelines more than the statistical analysis on top, and got serious about it through [Data Engineering Camp](https://dataengineercamp.com/). I work across SQL, SSIS, and Power BI, and I'm building toward the modern data stack. Always happy to connect, so feel free to reach out. Cheers!
+
+### What I'm interested in right now
+- Going deeper into the modern data stack (dbt, cloud warehousing, orchestration) beyond the on-prem tools I use day to day.
+- Enabling data privacy through better data engineering.
+- Making data engineering more accessible for small and medium-size businesses.
+
 ### How to reach me
-- Linkedin: https://www.linkedin.com/in/ericbjames/
-- Email: [ericbradleyj@gmail.com](ericbradleyj@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/ericbjames/
+- Email: [ericbradleyj@gmail.com](mailto:ericbradleyj@gmail.com)
 
 ## Data Engineer Projects
 
